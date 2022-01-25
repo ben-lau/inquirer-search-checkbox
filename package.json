@@ -1,5 +1,5 @@
 {
-  "name": "inquirer-search-checkbox",
+  "name": "new-inquirer-search-checkbox",
   "version": "1.0.2",
   "description": "Searchable Inquirer checkbox",
   "main": "dist/index.js",
