@@ -1,12 +1,13 @@
 {
   "name": "new-inquirer-search-checkbox",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Searchable Inquirer checkbox",
   "main": "dist/index.js",
   "scripts": {
     "start": "tsc -w",
     "build": "tsc"
   },
+  "types": "./type.d.ts",
   "keywords": [],
   "author": "",
   "license": "MIT",
